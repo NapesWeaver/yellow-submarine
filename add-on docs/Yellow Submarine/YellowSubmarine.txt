@@ -1,0 +1,40 @@
+
+Yellow Submarine
+
+Press k to start/stop propeller.
+...
+
+
+Required:
+
+Vinka's Spacecraft4 dll
+http://francophone.dansteph.com/?page=addon&id=202
+
+
+...
+
+
+Acknowledgments:
+
+
+Yellow submarine - Beatles 3D Model
+Ralph EDENBAG
+https://sketchfab.com/3d-models/yellow-submarine-beatles-f6763bd2c00d4ff784dca33a31adea08
+
+
+
+Sonar Ping.wav
+digifishmusic
+https://freesound.org/people/digifishmusic/sounds/42796/
+
+
+...
+
+
+
+
+
+
+
+
+

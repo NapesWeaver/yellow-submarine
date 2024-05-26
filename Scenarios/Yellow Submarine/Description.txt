@@ -1,0 +1,20 @@
+BEGIN_HYPERDESC
+<!--Orbiter 2016 description-->
+<h1>Yellow Submarine</h1>
+<p>Press k to start / stop the propeller.</p>
+<p>Press g to raise / lower the periscope.</p>
+<p><a href="http://francophone.dansteph.com/?page=addon&id=202">Vinka's Spacecraft4</a> is required.</p>
+END_HYPERDESC
+
+BEGIN_DESC
+Yellow Submarine
+
+
+Press k to start / stop the propeller.
+Press g to raise / lower the periscope.
+
+
+Vinka's Spacecraft4 is required.
+
+http://francophone.dansteph.com/?page=addon&id=202
+END_DESC
